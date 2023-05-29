@@ -23,7 +23,6 @@ Exercise 018 Python | Cloning or Copying a list
 Exercise 019 Python | Count occurrences of an element in a list
 Exercise 020 Python Program to find sum and average of List in Python
 Exercise 021 Remove multiple elements from a list in Python
+Incomplete=>
 Exercise 022 Python | Remove empty tuples from a list
-Exercise 038 
-Exercise 039 
-Exercise 040 Python | Program to print duplicates from a list of integers
+Exercise 038 Python | Program to print duplicates from a list of integers
