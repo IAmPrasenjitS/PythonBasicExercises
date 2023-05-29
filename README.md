@@ -12,3 +12,18 @@ Exercise 8: Write a program that appends the type of elements from a list.
 Exercise 9: Write a program to filter even and odd number from a list.
 Exercise 10: Write a program to fetch only even values from a dictionary.
 ========================================================================================================================================
+Exercise 011 Python program to interchange first and last elements in a list
+Exercise 012 Python program to swap two elements in a list
+Exercise 013 Maximum of two numbers in Python
+Exercise 014 Minimum of two numbers in Python
+Exercise 015 Python | Ways to check if element exists in list
+Exercise 016 Different ways to clear a list in Python
+Exercise 017 Python | Reversing a List
+Exercise 018 Python | Cloning or Copying a list
+Exercise 019 Python | Count occurrences of an element in a list
+Exercise 020 Python Program to find sum and average of List in Python
+Exercise 021 Remove multiple elements from a list in Python
+Exercise 022 Python | Remove empty tuples from a list
+Exercise 038 
+Exercise 039 
+Exercise 040 Python | Program to print duplicates from a list of integers
